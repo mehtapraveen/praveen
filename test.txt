@@ -1,4 +1,5 @@
 seven
 helicopter
+legend
 captain
 worldcup
